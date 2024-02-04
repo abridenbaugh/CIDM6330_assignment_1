@@ -3,6 +3,8 @@ This repository was created in accordance with the Assignment 1 instructions for
 
 
 #### The following is the reflection video for Assignment 1. 
+The reflection video seems to be too big for GitHub. I was able to 
+download the video using the tab titled Reflection_Video.mov.
 
 
 Reflection_Video.mov
