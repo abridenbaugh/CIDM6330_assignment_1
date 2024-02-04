@@ -5,4 +5,4 @@ This repository was created in accordance with the Assignment 1 instructions for
 #### The following is the reflection video for Assignment 1. 
 
 
-![Reflection Video](Reflection_Video.mov)
+Reflection_Video.mov
